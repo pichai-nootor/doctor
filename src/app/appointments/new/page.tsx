@@ -339,6 +339,7 @@ export default function NewAppointment() {
                       <option value="ชวัล">ชวัล</option>
                       <option value="พัฒวรินทร์">พัฒวรินทร์</option>
                       <option value="สุรเชษฐ์">สุรเชษฐ์</option>
+                      <option value="ปิยวัฒน์">ปิยวัฒน์</option>
                     </select>
                     <div className="absolute inset-y-0 right-0 flex items-center px-3 pointer-events-none text-slate-400">
                       <svg

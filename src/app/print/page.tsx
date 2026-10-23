@@ -112,6 +112,7 @@ function PrintContent() {
       case 'ชวัล': return 'bg-teal-100 text-teal-800 border-teal-200';
       case 'พัฒวรินทร์': return 'bg-fuchsia-100 text-fuchsia-800 border-fuchsia-200';
       case 'สุรเชษฐ์': return 'bg-lime-100 text-lime-800 border-lime-200';
+      case 'ปิยวัฒน์': return 'bg-indigo-100 text-indigo-800 border-indigo-200';
       default: return 'bg-blue-50 text-blue-700 border-blue-100';
     }
   };
